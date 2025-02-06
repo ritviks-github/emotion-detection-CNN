@@ -71,10 +71,4 @@ plt.show()
 - Use data augmentation techniques to improve generalization
 - Fine-tune hyperparameters for better accuracy
 
-## Author
-This project was implemented using Python, TensorFlow, and Keras on Kaggle.
-
----
-
-This README provides all necessary details to understand, run, and improve the emotion detection model.
 
